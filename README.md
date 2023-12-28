@@ -6,7 +6,7 @@
     Craft Your Love Story Online: Personalize, Share, and Cherish Every Moment with Our Digital Wedding Invite Editor!
     <br/>
     <br/>
-    <a href="https://github.com/https://github.com/amansingh1221/Canvas-text-editor">Live Demo Link</a>
+    <a href="https://amansingh-text-editor.netlify.app">Live Demo Link</a>
     .
   </p>
 </p>
