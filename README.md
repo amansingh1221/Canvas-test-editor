@@ -15,7 +15,7 @@
 
 ## About The Project
 
-![Screen Shot](./src/assets/demo.png)
+![Screen Shot](src/assets/demo.png)
 
 Basic Editing Web Application with features including Adding Text, Undo, Redo, Colour Change.
 
