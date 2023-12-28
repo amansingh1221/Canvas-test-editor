@@ -40,7 +40,7 @@ export default function App() {
     editor.canvas.setWidth(720);
     addBackground();
     editor.canvas.renderAll();
-  }, [editor?.canvas.backgroundImage]);
+  });
 
 
   useEffect(() => {
@@ -49,7 +49,7 @@ export default function App() {
     }
     editor.canvas.freeDrawingBrush.color = color;
     editor.setStrokeColor(color);
-  }, [color]);
+  }, [color,editor]);
 
   const undo = () => {
     if (editor.canvas._objects.length > 0) {
